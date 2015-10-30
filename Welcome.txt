@@ -1,2 +1,2 @@
-print("Hi all")
-print("add new hello")
+print("Hi all");
+print("add new hello");
